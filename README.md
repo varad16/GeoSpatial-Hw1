@@ -31,4 +31,5 @@ poi_data_clean.csv — cleaned dataset saved after preprocessing
 knn_linear_search_performance.png
 range_query_linear_search_performance.png
 knn_performance_story.png
-range_query_performance_story.png
+range_query_performance_story
+
